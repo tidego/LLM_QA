@@ -74,8 +74,6 @@ Environment类:
 - logger 用于记录日志
 - Env价值在于方法的实现，用于智能体调度、信息交互等。
 
-# images
-> 存放了readme.md所需要的图片，这里output.json给出来的第四题答案有误，不是C，而是B，知识库用由出处
 
 # kg_data
 **kg_data** 
