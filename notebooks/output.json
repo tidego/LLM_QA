@@ -1,0 +1,7 @@
+{"id": 0, "predict": "B"}
+{"id": 1, "predict": "C"}
+{"id": 2, "predict": "B"}
+{"id": 3, "predict": "B"}
+{"id": 4, "predict": "C"}
+{"id": 203, "predict": "A、C"}
+{"id": 300, "predict": "额定值为$5 \\mathrm{~W} 500 \\Omega$的线绕电阻的额定电流可以通过以下公式计算：\n\n$I = \\sqrt{\\frac{P}{R}} = \\sqrt{\\frac{5 \\mathrm{~W}}{500 \\Omega}} = 0.1 \\mathrm{A}$\n\n在使用时，线绕电阻的电压不得超过其额定电压，即$5 \\mathrm{~V}$。"}

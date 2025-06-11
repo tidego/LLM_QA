@@ -1,0 +1,16 @@
+aiolimiter~=1.2.1
+appbuilder_sdk~=1.0.6
+dashscope~=1.23.2
+faiss_cpu==1.7.4
+jieba~=0.42.1
+langchain_text_splitters~=0.3.8
+numpy~=1.26.4
+openai~=1.61.0
+rank_bm25~=0.2.2
+sentence_transformers~=3.3.1
+spacy~=3.8.5
+sse-starlette~=2.3.6
+torch~=2.7.1
+tqdm>=4.66.2
+starlette ~= 0.47.0
+mcp ~= 1.9.3
